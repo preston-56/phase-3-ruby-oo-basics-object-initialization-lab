@@ -99,7 +99,7 @@ const lassie = new Dog("Collie");
 lassie.breed; // => "Collie"
 ```
 
-## Instructions
+### Instructions
 
 Fork and clone the lab and run the tests with `learn test`.
 
